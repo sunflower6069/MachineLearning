@@ -1,0 +1,2 @@
+Copyright © 2017 Xin Yan. All rights reserved.
+Unless otherwise indicated, all materials in this repository are copyrighted by Xin Yan. All rights reserved. No part of the repsitory may be used for any purpose other than personal use. Therefore, reproduction, or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.
